@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "wOiitXYFWjNrVR9fBdK4PjPCE225P6DExKuXEA7G8NM=",
+  "Source": "PatchRequest",
+  "BasePath": "_content/PatchRequest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
